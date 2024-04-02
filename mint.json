@@ -39,8 +39,8 @@
           "group": "Nytt bygg",
           "icon": "sparkle",
           "pages": [
-            "pages/dashboard/nytt-bygg/legg-til-bygning",
-            "pages/dashboard/nytt-bygg/legg-til-etasje"
+            "pages/dashboard/nytt-bygg/opprett-bygg",
+            "pages/dashboard/nytt-bygg/opprett-etasje"
 
           ]
         },
