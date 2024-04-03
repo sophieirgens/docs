@@ -76,7 +76,7 @@
     {
       "group": "Engine",
       "pages": [
-        "pages/engine/lag-kopi",
+        "pages/engine/dupliser-etasje",
         {
           "group": "Verktøy",
           "icon": "hammer",
