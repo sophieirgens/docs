@@ -48,8 +48,8 @@
           "group": "Leietakerkrav",
           "icon": "pen",
           "pages": [
-            "pages/dashboard/leietakerkrav/legg-til-leietaker",
-            "pages/dashboard/leietakerkrav/endre-leietaker"
+            "pages/dashboard/leietakerkrav/opprett-leietaker",
+            "pages/dashboard/leietakerkrav/rediger-leietaker"
 
           ]
         },
