@@ -98,12 +98,19 @@
           ]
         },
         {
+          "group": "Eksportering",
+          "icon": "download",
+          "pages": [
+            "pages/engine/eksportering/eksporter-pdf",
+            "pages/engine/eksportering/eksporter-dxf"
+          ]
+        },
+        {
           "group": "Innstillinger",
           "icon": "gear",
           "pages": [
             "pages/engine/innstillinger/3d-visning",
             "pages/engine/innstillinger/lover-og-regelverk",
-            "pages/engine/innstillinger/eksportering",
             "pages/engine/innstillinger/hurtigtaster"
           ]
         }
