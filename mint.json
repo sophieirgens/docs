@@ -15,9 +15,15 @@
     "isHidden": true
   },
   "topbarCtaButton": {
-    "name": "Kontakt oss",
-    "url": "mailto:benedicte@arealize.ai"
+    "name": "Gå til Dashboard",
+    "url": "https://dashboard.arealize.ai/"
   },
+  "topbarLinks": [
+    {
+      "name": "Kontakt oss",
+      "url": "mailto:benedicte@arealize.ai"
+    }
+  ],
   "feedback": {
     "suggestEdit": true
   },
