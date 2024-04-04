@@ -92,7 +92,7 @@
           "group": "Arealer",
           "icon": "draw-square",
           "pages": [
-            "pages/engine/arealer/opprett-omrader",
+            "pages/engine/arealer/opprette-soner",
             "pages/engine/arealer/endre-rom",
             "pages/engine/arealer/areal-og-statistikk"
           ]
