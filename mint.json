@@ -99,7 +99,7 @@
           "icon": "draw-square",
           "pages": [
             "pages/engine/arealer/areal-og-statistikk",
-            "pages/engine/arealer/opprette-soner",
+            "pages/engine/arealer/opprett-soner",
             "pages/engine/arealer/endre-rom"
           ]
         },
