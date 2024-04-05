@@ -46,7 +46,7 @@
           "icon": "sparkle",
           "pages": [
             "pages/dashboard/nytt-bygg/opprett-bygg",
-            "pages/dashboard/nytt-bygg/opprett-etasje"
+            "pages/dashboard/nytt-bygg/legg-til-etasjer"
 
           ]
         },
@@ -99,8 +99,7 @@
           "icon": "draw-square",
           "pages": [
             "pages/engine/arealer/areal-og-statistikk",
-            "pages/engine/arealer/opprett-soner",
-            "pages/engine/arealer/endre-rom"
+            "pages/engine/arealer/opprett-soner"
           ]
         },
         {
