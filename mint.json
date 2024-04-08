@@ -128,7 +128,7 @@
   "redirects": [
     {
       "source": "/pages/dashboard/nytt-bygg/opprett-etasje",
-      "destination": "/pages/dashboard/nytt-bygg/legg-til-etasje"
+      "destination": "/pages/dashboard/nytt-bygg/legg-til-etasjer"
     }
   ]  
 }
