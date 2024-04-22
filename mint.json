@@ -89,6 +89,7 @@
           "pages": [
             "pages/engine/verktoy/legg-til-mobler",
             "pages/engine/verktoy/automatisk-moblering",
+            "pages/engine/verktoy/legg-til-vegg",
             "pages/engine/verktoy/legg-til-dor",
             "pages/engine/verktoy/legg-til-vindu"
 
